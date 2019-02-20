@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973064527183",
+    "firebase_url": "https://easyprint-55baf.firebaseio.com",
+    "project_id": "easyprint-55baf",
+    "storage_bucket": "easyprint-55baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973064527183:android:eccfeeac5c3b570a",
+        "android_client_info": {
+          "package_name": "com.allashtokal.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973064527183-4dsbflh4h7vkc75in6vjuv0mpn3pebr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allashtokal.myapplication",
+            "certificate_hash": "402ca9c638ab4e28f2fd88122dd4e63446939502"
+          }
+        },
+        {
+          "client_id": "973064527183-08hjtqm3i4cg1udhbbqg43gs2q28uimk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzVAaaPW81PVq2KuwOHe_nIecYy_iZsps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973064527183-08hjtqm3i4cg1udhbbqg43gs2q28uimk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
